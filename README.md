@@ -1,5 +1,5 @@
-# ✝️ [thank_bot](https://t.me/VesselOfPraise_bot) — Бот благодарений для Церкви ⛪
-
+# ✝️ thank_bot — Бот благодарений для Церкви ⛪
+[![](https://img.shields.io/badge/-Перейти%20к%20боту-337EFF?style=for-the-badge)](https://t.me/VesselOfPraise_bot)
 > *Простой и удобный Telegram-бот, который позволяет выражать благодарность Богу, делиться свидетельствами и радостью в онлайн-формате!*
 
 ---
